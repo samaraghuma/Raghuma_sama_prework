@@ -1,0 +1,6 @@
+c:\users\samar\documents\visual studio 2015\Projects\Raghuma_sama_prework\Raghuma_sama_prework\bin\Debug\Raghuma_sama_prework.exe.config
+c:\users\samar\documents\visual studio 2015\Projects\Raghuma_sama_prework\Raghuma_sama_prework\bin\Debug\Raghuma_sama_prework.exe
+c:\users\samar\documents\visual studio 2015\Projects\Raghuma_sama_prework\Raghuma_sama_prework\bin\Debug\Raghuma_sama_prework.pdb
+c:\users\samar\documents\visual studio 2015\Projects\Raghuma_sama_prework\Raghuma_sama_prework\obj\Debug\Raghuma_sama_prework.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\Raghuma_sama_prework\Raghuma_sama_prework\obj\Debug\Raghuma_sama_prework.exe
+c:\users\samar\documents\visual studio 2015\Projects\Raghuma_sama_prework\Raghuma_sama_prework\obj\Debug\Raghuma_sama_prework.pdb
